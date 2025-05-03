@@ -20,7 +20,8 @@
 
 ![Pull docker](https://github.com/user-attachments/assets/d89c4b45-3b9c-4f91-bc8b-30c4d4bfeb03)
 
-![To-do app](https://github.com/user-attachments/assets/72b3927d-30a3-4359-a526-52315e2465b0)
+![To-do-app](https://github.com/user-attachments/assets/d9612ec2-a36d-4d3e-a8af-4ade22fd75a0)
+
 
 ![Pushed docker](https://github.com/user-attachments/assets/359ffb6e-01ae-43b7-9cac-f71ec441d2e9)
 ![Flight scraper](https://github.com/user-attachments/assets/1703f97c-526d-4f88-901d-79efdf94b3d1)
@@ -37,15 +38,20 @@
 
 ![PHP](https://github.com/user-attachments/assets/8a672611-6aca-4df9-98a6-6919c9b11ff0)
 
-![AWS](https://github.com/user-attachments/assets/ad9db020-d36f-4a4d-9381-5d0c3b483565)
-![Test AWS](https://github.com/user-attachments/assets/4b3a9bac-fc13-4c40-a805-1da953c59ea4)
-![File stolen](https://github.com/user-attachments/assets/85518c73-3fde-4361-80b4-491ab0d92dc7)
-![Uploaded file](https://github.com/user-attachments/assets/5c466d22-f7dc-413b-a102-2628eded3b40)
+![AWS](https://github.com/user-attachments/assets/a46bd3f8-a62c-4ca3-86c2-1780eb7b95f0)
+
+![Test AWS](https://github.com/user-attachments/assets/53039d3f-ebf9-4f47-a8b9-1eb507fac46c)
+
+![File uploaded](https://github.com/user-attachments/assets/b0ff4527-e78e-403c-9e43-83ffebab8d2a)
+![Uploaded file](https://github.com/user-attachments/assets/ff1d7280-145b-401a-809d-1b563174b4c0)
+
 ![scan.txt](https://github.com/user-attachments/assets/4ffe8806-7646-45e6-b051-310ccb3b9a02)
-![Jenkinsfile](https://github.com/user-attachments/assets/f97d52e9-280d-461b-aea7-c0de97e03bb2)
-![init](https://github.com/user-attachments/assets/6535aa12-fe6d-4c5b-974b-9def76565a3d)
-![apply](https://github.com/user-attachments/assets/7ec1469d-1458-4253-bece-ce1d24614b1b)
-![main.tf](https://github.com/user-attachments/assets/ae924f6b-4a20-44bc-b0db-51149b72bb8c)
+![Jenkinsfile](https://github.com/user-attachments/assets/3ae82fbb-fed0-4aca-8d44-07af0a6b0e78)
+![init](https://github.com/user-attachments/assets/c1c43b62-e26c-49ab-9816-37ba5cf2588d)
+
+![apply](https://github.com/user-attachments/assets/1a4b17b4-8665-48da-86ba-14a79f3b2146)
+![main.tf](https://github.com/user-attachments/assets/efc11fb3-42ae-4480-9c4c-714aa99d55b6)
+
 ![Notion](https://github.com/user-attachments/assets/016942c5-213f-4f6c-b52f-f5aedd5370af)
 ![DAA Process](https://github.com/user-attachments/assets/72b909d5-e658-4399-bbe3-b213664aa542)
 ![Analysis Framework](https://github.com/user-attachments/assets/4f686b37-3851-446f-81b3-0be8c1f6a120)
