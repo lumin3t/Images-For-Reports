@@ -7,7 +7,10 @@
 ![Terminal](https://github.com/user-attachments/assets/4cee2eaf-fb7e-4491-97c8-67334d5685db)
 ![OSI](https://github.com/user-attachments/assets/2d8b4adb-eedf-4df2-bef2-e722291ed097)
 
-![Output](https://github.com/user-attachments/assets/f696541a-f852-4c7f-af5c-91d5d0fbdcbe)
+![Output](https://github.com/user-attachments/assets/982a393d-ce82-40a7-b552-a76481346cbe)
+![IPs](https://github.com/user-attachments/assets/3661d80e-cb87-4c76-9d1a-54b9329a0f76)
+
+
 ![Nmap](https://github.com/user-attachments/assets/7e84be87-0ea5-42e6-b59c-45bc86183d67)
 
 ![User Created](https://github.com/user-attachments/assets/3a5e803c-b043-414a-b5a1-a5caf2c1d72e)
